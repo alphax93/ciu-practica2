@@ -1,0 +1,10 @@
+﻿  tarea2.cpp
+  tarea3.cpp
+tarea3.cpp(41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+tarea3.cpp(44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  10 of 12 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ciu practica2.vcxproj -> C:\Users\Aitor\source\repos\ciu practica2\Release\ciu practica2.exe
